@@ -4,7 +4,7 @@ A small collection of Xcode Playgrounds associated with my [St. Louis CocoaHeads
  
 ## Slides
 
-[FiddleYard.pdf](Slides)
+[FiddleYard.pdf](FiddleYard.pdf)
  
 ## Contents
  
