@@ -2,6 +2,10 @@
 
 A small collection of Xcode Playgrounds associated with my [St. Louis CocoaHeads](https://www.meetup.com/St-Louis-CocoaHeads/) (April 2018) "Kicking Things Off With Swift" talk.
  
+## Slides
+
+[FiddleYard.pdf](Slides)
+ 
 ## Contents
  
 - Building Lionel "Toy Train" Commands
